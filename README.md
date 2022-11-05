@@ -1,1 +1,1 @@
-# [juicy](https://alextufeng.github.io/juicy-catering/)
+# [juicy](https://alextufeng.github.io/juicy/)
